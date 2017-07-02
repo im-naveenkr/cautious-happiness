@@ -5,4 +5,9 @@ Github:
 	
 	1. git clone <repo_address>
 	2. git status: tells you the current status of your local git repo
-	3. 
+	3. make changes
+	4. git add --all: add all the changes or choose selectively; changes to be committed
+	5. origin: from where you cloned your code
+	6. git commit: nano will open, add the commit messages, enter ctrl+X to save the commits
+	7. or user git commit -m "<your_commit_message>"
+	8. git branch <branch_name>: creates a new branch
